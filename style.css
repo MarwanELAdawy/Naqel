@@ -1,0 +1,118 @@
+* {box-sizing: border-box;}
+@font-face {
+   font-family: myFirstFont;
+   src: url(JF Flat regular.otf);
+}
+.bg-wa {
+    background-color:   #F8DA60!important;
+}
+.containingText {position: relative;
+    text-align: center;
+    color: white;
+    font-size: 05vw;
+    font-weight: bold;
+    direction: rtl;
+    margin-bottom: 20px;
+    font-family: myFirstFont;
+    
+}
+.*{
+    font-family: myFirstFont;
+}
+.img-2{
+    height: 50px;
+    margin-left: 20px;
+}
+.img-3{
+    width:10000px;
+    height:100px;
+}
+.img-5{
+    margin-top:10px;
+}
+
+/* Centered text */
+.centered {position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+a.nav-link {font-size: 100%;
+    font-weight: bold;
+    color: black;
+    text-align: right;
+font-family: myFirstFont;}
+div.card {cursor: pointer;}
+
+img.card-img-top {width: 80%;
+    margin-top: 20px;}
+
+.nav-item{
+    margin-right: 30px;
+    font-size:20px;
+}
+
+.normalMenu{
+    background-color:   #F8DA60!important;
+}
+.bg-warning{
+     background-color:   #F8DA60!important;
+}
+img.card-img-top {
+    width: 30%;
+    margin-top: 20px;
+}
+.im{
+    width:100px;
+    margin-left:100px;
+}
+.btn-group{
+    margin-left:450px;
+
+}
+.ar-im{
+    height:30px;margin-right:150px;
+}
+.btn-warning{
+    background-color:   #F8DA60!important;
+       
+}
+.project-hover {
+  position: relative;
+  overflow: hidden;
+
+}
+.project-hover:hover .text-view {
+  top: 40%;
+  opacity: 1;
+}
+.project-hover:hover .btn-view {
+  top: 60%;
+  opacity: 1;
+}
+.project-hover:hover img {
+  opacity: .8;
+}
+.project-hover:hover .card{
+    background-color:   #F8DA60!important;
+}
+.card:hover{
+    background-color:   #F8DA60!important;
+}
+.last-btn{
+    margin-bottom:50px;
+    margin-left:600px;
+}
+.form-group {
+    margin-bottom: 1rem;
+    padding-left: 280px;
+}
+
+
+
+
+
+
+
+
+
